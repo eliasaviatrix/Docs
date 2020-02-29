@@ -1,6 +1,16 @@
 Aviatrix VPN Client Changelog
 -----------------------------
 
+2.7.8 - Feb 28 2020
+0012424: VPN Client auth using MFA - not intuitive for endusers to know that the MFA factor needs to be appended to password.
+0012859: [VPNC]quit from App icon of the MacOS task bar then App is frozen.
+0012624: [AVPNC] VPN client does not re-prompt for password if it is incorrect
+0012340: MAC VPN Client (faded green) Icon Color
+0011882: UserVPN client becomes unresponsive.
+0013150: AVPNC 2.7.6 crashes on Catalina Aviatrix VPN Client has encountered a fatal error, and will now terminate
+0011305: MacOs vpn client install crash 2.4.7 while 2.3.10 running in background
+
+
 2.6.6 - Jan 29 2020
  - Improve the user experience to add a new VPN profile
  - Security fixes for the OpenVPN params
